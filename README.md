@@ -11,7 +11,9 @@
 - All major parts 3d printed out of PLA
 - Electrical drawing created using draw.io
 - Programmed using Python on VSCode and C++ on Arduino IDE
+  
 ![Swerve Module Assembly](/assets/vid/Swerve-Module-Assembly.mp4)
+
 ![Swerve Module Assembly](/assets/vid/Swerve-Drive-Progress.mp4)
 #### Object detection | December 2024 - Present
 - Roboflow for image labeling
