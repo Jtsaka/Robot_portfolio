@@ -16,7 +16,7 @@
 
 ![Swerve Modules](/assets/img/SwerveModules.jpg)
 
-[![Swerve Module Assembly](/assets/vid/ytSwerveTest.jpg)](https://youtube.com/shorts/e3Hp_WbGmZE?feature=share)
+[![Swerve Module Assembly](//img.youtube.com/shorts/e3Hp_WbGmZE?feature=share.img)](https://youtube.com/shorts/e3Hp_WbGmZE?feature=share)
 #### Object detection | December 2024 - Present
 - Roboflow for image labeling
 - YOLOv11 computer vision model
