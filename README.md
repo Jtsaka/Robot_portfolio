@@ -1,8 +1,8 @@
 # Student
 
 ### Education
-College of San Mateo
-Computer and Information Sciences AA (2026)
+- College of San Mateo
+- Computer and Information Sciences AA (2026)
 
 ### Projects
 #### Coaxial Swerve Drive | September 2024 - Present
