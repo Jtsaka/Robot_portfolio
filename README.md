@@ -1,7 +1,7 @@
 # Student
 
 ### Education
-- College of San Mateo
+- Community College student at College of San Mateo
 - Computer and Information Sciences AA (2026)
 
 ### Projects
