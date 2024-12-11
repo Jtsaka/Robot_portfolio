@@ -11,7 +11,7 @@ Computer and Information Sciences AA (2026)
 - Electrical drawing created using draw.io
 - Programmed using Python on VSCode and C++ on Arduino IDE
 
-####Object detection | December 2024 - Present
+#### Object detection | December 2024 - Present
 - Roboflow for image labeling
 - YOLOv11 computer vision model
 - Raspberry Pi 5 
