@@ -21,4 +21,5 @@ Link to swerve test run: [Swerve Test Run](//img.youtube.com/shorts/e3Hp_WbGmZE?
 #### Object detection | December 2024 - Present
 - Roboflow for image labeling
 - YOLOv11 computer vision model
-- Raspberry Pi 5 
+- Raspberry Pi 5 + Hailo
+- More information to be updated as project progresses...
