@@ -13,7 +13,7 @@
 - Programmed using Python on VSCode and C++ on Arduino IDE
 - Wheel speed and direction is joy stick controlled
 
-Link to swerve test run: [Swerve Test Run](//img.youtube.com/shorts/e3Hp_WbGmZE?feature=share.img)
+Link to swerve test run: [Swerve Test Run](https://youtube.com/shorts/e3Hp_WbGmZE)
   
 [![Swerve Module Assembly](/assets/img/youtubeSwerveModuleScreenshot.jpg)](https://youtu.be/xb2VBfcx2i0)
 
