@@ -11,6 +11,7 @@
 - All major parts 3d printed out of PLA
 - Electrical drawing created using draw.io
 - Programmed using Python on VSCode and C++ on Arduino IDE
+- Wheel speed and direction is joy stick controlled
 
 Link to swerve test run: [Swerve Test Run](//img.youtube.com/shorts/e3Hp_WbGmZE?feature=share.img)
   
