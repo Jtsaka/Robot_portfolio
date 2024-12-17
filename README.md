@@ -7,7 +7,7 @@
 ### Projects
 #### Coaxial Swerve Drive | September 2024 - Present
 
-- Designed through CAD software Onshape (ADD LINK TO CAD)
+- Designed through CAD software [Onshape](https://cad.onshape.com/documents/157f83f5ce2658bddeb31e4e/w/17c006737b5bd68f1b0c3faa/e/d10b6003bbe866a4020eadc7?renderMode=0&uiState=6760c6c701bd045a6a9dfbdd)
 - All major parts 3d printed out of PLA
 - Electrical drawing created using draw.io
 - Programmed using Python on VSCode and C++ on Arduino IDE
