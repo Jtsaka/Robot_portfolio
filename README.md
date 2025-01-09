@@ -19,8 +19,9 @@ Link to swerve test run: [Swerve Test Run](https://youtube.com/shorts/e3Hp_WbGmZ
 
 ![Swerve Modules](/assets/img/SwerveModules.jpg)
 
-#### Object detection | December 2024 - Present
+#### Object detection with 3d printed Robotic Arm | December 2024 - Present
 - Roboflow for image labeling
 - YOLOv11 computer vision model
 - Raspberry Pi 5 + Hailo
-- More information to be updated as project progresses...
+- Goal to detect and pickup common household objects with arm
+- More updates and photos to be posted when project gets closer to completion...
