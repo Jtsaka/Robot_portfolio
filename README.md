@@ -25,3 +25,5 @@ Link to swerve test run: [Swerve Test Run](https://youtube.com/shorts/e3Hp_WbGmZ
 - Raspberry Pi 5 + Hailo
 - Goal to detect and pickup common household objects with arm
 - More updates and photos to be posted when project gets closer to completion...
+  
+![Robotic Arm](/assets/img/RoboArm.jpg)
