@@ -27,3 +27,9 @@ Link to swerve test run: [Swerve Test Run](https://youtube.com/shorts/e3Hp_WbGmZ
 - More updates and photos to be posted when project gets closer to completion...
   
 ![Robotic Arm](/assets/img/RoboArm.jpg)
+
+### CAD works
+Misc CAD practice projects for the 2023 FRC robotics season
+![Robotic Arm](/assets/img/Practice8177Robot.jpg)
+
+![Robotic Arm](/assets/img/2023PracticeRobot.png)
