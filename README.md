@@ -28,6 +28,8 @@ Link to swerve test run: [Swerve Test Run](https://youtube.com/shorts/e3Hp_WbGmZ
   
 ![Robotic Arm](/assets/img/RoboArm.jpg)
 
+![Robot Unwired](/assets/img/robotunwired.jpg)
+
 ### CAD works
 Misc CAD practice projects for the 2023 FRC robotics season
 ![Robotic Arm](/assets/img/Practice8177Robot.jpg)
