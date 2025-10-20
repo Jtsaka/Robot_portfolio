@@ -4,8 +4,8 @@
 - Community College student at College of San Mateo
 - Computer and Information Sciences AA (2026)
 
-### Projects
-#### Coaxial Swerve Drive | September 2024 - Present
+### Robot Project
+#### Coaxial Swerve Drive | Oct 2024 - Present
 
 - Designed through CAD software [Onshape](https://cad.onshape.com/documents/157f83f5ce2658bddeb31e4e/w/17c006737b5bd68f1b0c3faa/e/d10b6003bbe866a4020eadc7?renderMode=0&uiState=6760c6c701bd045a6a9dfbdd)
 - All major parts 3d printed out of PLA
@@ -22,12 +22,12 @@ Link to swerve test run: [Swerve Test Run](https://youtube.com/shorts/e3Hp_WbGmZ
 #### Object detection with 3d printed Robotic Arm | December 2024 - Present
 - Roboflow for image labeling
 - YOLOv11 computer vision model
-- Raspberry Pi 5 + Hailo
+- Raspberry Pi 5 + Hailo AI Hat
 - Goal to detect and pickup common household objects with arm
-- More updates and photos to be posted when project gets closer to completion...
+- Swerve drive code: [github_repo](https://github.com/Jtsaka/3dpSwerveDrive_Code)
+- CV for Robot code : [github_repo](https://github.com/Jtsaka/CV_robot) (using YOLOv8/COCO dataset to test to ensure logic works, implementation for custom model later)
+- Planning on adding RPLIDAR C1 + integrating ROS2, Matlab Robot System Toolkit and Docker during Winter 2025
   
-![Robotic Arm](/assets/img/RoboArm.jpg)
-
 ![Robot Unwired](/assets/img/robotunwired.webp)
 
 ### CAD works
