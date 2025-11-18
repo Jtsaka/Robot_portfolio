@@ -31,4 +31,4 @@ Link to wheel testing run: [Swerve Test Run](https://youtube.com/shorts/e3Hp_WbG
 - Planning on adding RPLIDAR C1 + integrating ROS2, Matlab Robot System Toolkit and Docker during Winter 2025
   
 ![Robot Unwired](/assets/img/robotunwired.webp)
-![Robot_align](./assets/img/IMG_7909.gif)
+![Robot_align](./assets/img/RobotTrackingGif.gif)
