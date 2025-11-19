@@ -30,6 +30,6 @@ Link to wheel testing run: [Swerve Test Run](https://youtube.com/shorts/e3Hp_WbG
 - Planning on adding RPLIDAR C1 + integrating ROS2, Matlab Robot System Toolkit and Docker during Winter 2025
   
 ![Robot Unwired](/assets/img/robotunwired.webp)
-![Robot_align](./assets/img/RobotTrackingGif.gif)
+![Robot_align](./assets/img/RobotTracking.gif)
 
-(Hard to see, but bounding box around bottle, with labeled object + distance + angle)
+Robot alignment gif (sometimes doesn't load properly on the README) -- (Hard to see, but bounding box around bottle, with labeled object + distance + angle)
