@@ -31,3 +31,5 @@ Link to wheel testing run: [Swerve Test Run](https://youtube.com/shorts/e3Hp_WbG
   
 ![Robot Unwired](/assets/img/robotunwired.webp)
 ![Robot_align](./assets/img/RobotTrackingGif.gif)
+
+(Hard to see, but bounding box around bottle, with labeled object + distance + angle)
