@@ -4,7 +4,7 @@
 ![Robot CAD](/assets/img/Robot_CAD.jpg)
 - Designed through CAD software [Onshape](https://cad.onshape.com/documents/ef0ab7c83fce550309ce9cc2/w/63f2592733dea9910b64c771/e/0ea5a33e30b27a1f3bd000f1)
 - Jake Sakamoto designed coaxial swerve drive, turreted arm designed by Jorell Sakamoto
-- All major parts 3d printed out of PLA
+- All major parts 3d printed with PLA
 
 ## Robot Electronics
 ![Robot Electrical](/assets/img/RobotElectrical.jpg)
