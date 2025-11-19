@@ -23,8 +23,7 @@ Link to wheel testing run: [Swerve Test Run](https://youtube.com/shorts/e3Hp_WbG
 - YOLOv8 computer vision model
 - Raspberry Pi 5 + Hailo AI Hat
 - Goal to detect and pickup common household objects with arm
-- Swerve drive code: [github_repo](https://github.com/Jtsaka/3dpSwerveDrive_Code)
-- CV for Robot code : [github_repo](https://github.com/Jtsaka/CV_robot) (using YOLOv8/COCO dataset to test to ensure logic works, implementation for custom model later)
+- Robot code : [github_repo](https://github.com/Jtsaka/CV_robot) (using YOLOv8/COCO dataset to test to ensure logic works, implementation for custom model later)
 
 ## Future notes
 - Currently utilizing Raspberry Pi 5 for edge computing --> once test on Raspberry Pi 5 is complete, have on hand and will install NVIDIA Jetson Orin Nano
